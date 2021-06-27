@@ -1,2 +1,2 @@
-server:
-  port: 8001
+config:
+  info: "master branh,springclod-config/config-dev.ymlversion=1"
